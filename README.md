@@ -1,23 +1,23 @@
-# FUT AutoBuyer
+# FUT Trader
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Total Downloads](https://img.shields.io/github/downloads/ckalgos/FUT-Auto-Buyer/total.svg)]()
+[![Total Downloads](https://img.shields.io/github/downloads/ckalgos/FUT-Trader/total.svg)]()
 
 <p align="center"> 
-  <h3 align="center">FUT AutoBuyer</h3>
+  <h3 align="center">FUT Trader</h3>
 
    <h1>You can install the script from <a href='https://chrome.google.com/webstore/detail/boffdonfioidojlcpmfnkngipappmcoh'>Chrome Store</a></h1>
    
   <p align="center">
-    Autobuyer from FIFA Ultimate Team Webapp!
+    Trader from FIFA Ultimate Team Webapp!
     <br />  
     <br /> 
-    <a href="https://github.com/ckalgos/FUT-Auto-Buyer/issues">Report Bug</a>
+    <a href="https://github.com/ckalgos/FUT-Trader/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ckalgos/FUT-Auto-Buyer/issues">Request Feature</a>
+    <a href="https://github.com/ckalgos/FUT-Trader/issues">Request Feature</a>
     ·
   <a href="https://www.youtube.com/channel/UC5eLkjmLU2TcE4oiJM9PsyA?sub_confirmation=1">Subscribe</a>
   
@@ -50,11 +50,11 @@
 ## Installation
 
 - Add Tamper Monkey Extenstion to your Browser - [Link](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-GB).
-- Click on fut-auto-buyer.user.js from - [Latest Release](https://github.com/ckalgos/FUT-Auto-Buyer/releases/).
+- Click on fut-trader.user.js from - [Latest Release](https://github.com/ckalgos/FUT-Trader/releases/).
 - Then click on Install/Update.
 - Installation And Demo - [Video Guide](https://www.youtube.com/watch?v=WATch4hxhtk).
 
-Now in Ultimate Team Web App, new menu will be added as AutoBuyer.
+Now in Ultimate Team Web App, new menu will be added as Trader.
 
 Using mobile? No problem, you can get the app for your os below
 
@@ -72,25 +72,25 @@ Using mobile? No problem, you can get the app for your os below
 
 ## Usage
 
-### AutoBuyer Settings
+### Trader Settings
 
 ### Sell Price
 
-- If specified the autobuyer will list the bought item for the specified price.
+- If specified the trader will list the bought item for the specified price.
 - The tool will list all the cards in transfer target, make sure to move your cards to the club before running the tool to avoid losing the card.
 - Give Sell Price as -1 to move to transfer list without selling.
 
 ### Buy Price
 
-- If specified the autobuyer will buy the card matching the search critieria for the price less than or equal to specified price.
+- If specified the trader will buy the card matching the search critieria for the price less than or equal to specified price.
 
 ### Bid Price
 
-- If specified the autobuyer will bid on the card matching the search critieria for the price less than or equal to specified price.
+- If specified the trader will bid on the card matching the search critieria for the price less than or equal to specified price.
 
 ### No. of cards to buy
 
-- Number of cards the autobuyer should buy before auto stopping.
+- Number of cards the trader should buy before auto stopping.
 - Default Value (`10`).
 
 ### Bid Exact Price
@@ -119,12 +119,12 @@ Using mobile? No problem, you can get the app for your os below
 
 ### Wait Time
 
-- The autobuyer will wait for the specified time before making the next search request.
+- The trader will wait for the specified time before making the next search request.
 - Default Value (`7 - 15`).
 
 ### Clear sold count
 
-- The autobuyer will clear all the sold items from transfer list when the count exceeds the specified value.
+- The trader will clear all the sold items from transfer list when the count exceeds the specified value.
 - Default Value (`10`).
 
 ### Rating Threshold
