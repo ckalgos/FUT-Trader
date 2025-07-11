@@ -235,7 +235,7 @@ Using mobile? No problem, you can get the app for your os below
 
 ## Roadmap
 
-See the [open issues](https://github.com/ckalgos/FUT-Auto-Buyer/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ckalgos/FUT-Trader/issues) for a list of proposed features (and known issues).
 
 ## 💬 Community
 
@@ -269,15 +269,15 @@ Any contributions you make are **greatly appreciated**.
 
 Instagram - [@Instagram](https://www.instagram.com/ckalgos/) - ckalgos@gmail.com
 
-Project Link: [https://github.com/ckalgos/FUT-Auto-Buyer](https://github.com/ckalgos/FUT-Auto-Buyer)
+Project Link: [https://github.com/ckalgos/FUT-Trader](https://github.com/ckalgos/FUT-Trader)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ckalgos/FUT-Auto-Buyer.svg?style=flat-square
-[contributors-url]: https://github.com/ckalgos/FUT-Auto-Buyer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ckalgos/FUT-Auto-Buyer.svg?style=flat-square
-[forks-url]: https://github.com/ckalgos/FUT-Auto-Buyer/network/members
-[stars-shield]: https://img.shields.io/github/stars/ckalgos/FUT-Auto-Buyer.svg?style=flat-square
-[stars-url]: https://github.com/ckalgos/FUT-Auto-Buyer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ckalgos/FUT-Auto-Buyer.svg?style=flat-square
-[issues-url]: https://github.com/ckalgos/FUT-Auto-Buyer/issues
+[contributors-shield]: https://img.shields.io/github/contributors/ckalgos/FUT-Trader.svg?style=flat-square
+[contributors-url]: https://github.com/ckalgos/FUT-Trader/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ckalgos/FUT-Trader.svg?style=flat-square
+[forks-url]: https://github.com/ckalgos/FUT-Trader/network/members
+[stars-shield]: https://img.shields.io/github/stars/ckalgos/FUT-Trader.svg?style=flat-square
+[stars-url]: https://github.com/ckalgos/FUT-Trader/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ckalgos/FUT-Trader.svg?style=flat-square
+[issues-url]: https://github.com/ckalgos/FUT-Trader/issues
